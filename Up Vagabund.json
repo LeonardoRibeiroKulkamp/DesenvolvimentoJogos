@@ -20,7 +20,7 @@
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
     "version": "1.0.0",
-    "name": "Up Vagabond",
+    "name": "Up Vagabund",
     "description": "",
     "author": "",
     "windowWidth": 1920,
@@ -7983,7 +7983,11 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
+<<<<<<< HEAD
         "zoomFactor": 0.29879853636069087,
+=======
+        "zoomFactor": 0.4163025217733325,
+>>>>>>> 9afe082efc9fcf342e5e92c32528611a8cb3c04f
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -13914,8 +13918,9 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 1083,
           "keepRatio": true,
           "layer": "",
           "name": "LajePedra01",
