@@ -68117,7 +68117,7 @@
           "name": "PlataformaMadeira01",
           "persistentUuid": "31f4407d-3e88-4174-b049-b3450cb52660",
           "width": 320,
-          "x": 8192,
+          "x": 8320,
           "y": 128,
           "zOrder": -82,
           "numberProperties": [],
@@ -68168,7 +68168,7 @@
           "name": "PlataformaMadeira01",
           "persistentUuid": "1c75bc09-611d-49e9-bf1c-c7a37d8d6b94",
           "width": 320,
-          "x": 8192,
+          "x": 8320,
           "y": -256,
           "zOrder": -82,
           "numberProperties": [],
@@ -175599,9 +175599,9 @@
           "effects": [],
           "behaviors": [
             {
-              "jumpSpeed": 900,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "jumpSpeed": 900,
               "acceleration": 2000,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": true,
